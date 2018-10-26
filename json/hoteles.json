@@ -1,5 +1,5 @@
 {
-  "Hoteles": [{
+  "hoteles": [{
     "Nombre": "Hacienda del Sol",
     "Estrellas": "3",
     "Precio": "$450 mxn ",

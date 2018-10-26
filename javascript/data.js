@@ -72,3 +72,38 @@ function showHoteles(data) {
   }
 
 }
+
+function showVuelos(data) {
+
+  var key, count = 0;
+
+  for (key in data.vuelos) {
+    if (data.vuelos.hasOwnProperty(key)) {
+      return "<h3 style='font-size:32px; font-weight: bold;' class='text-center'>Vuelos</h3>" +
+        "<h3><strong>Clima</strong>: " + data.vuelos[count].Nombre + "</h3>" +
+        "<h3><strong>Descipción</strong>: " + data.vuelos[count].Destino + "</h3>" +
+        "<h3><strong>Temperatura</strong>: " + data.vuelos[count].Precio + "&deg;C</h3>" +
+        "<h3><strong>Temperatura mínima</strong>: " + data.vuelos[count].Fecha_ida + "&deg;C</h3>" +
+        "<h3><strong>Ultima actualizacion</strong>: " + data.vuelos[count].Escalas + "</h3>";
+      count++;
+    }
+  }
+}
+
+function showAutos(data) {
+
+  var key, count = 0;
+
+  for (key in data.autos) {
+    if (data.autos.hasOwnProperty(key)) {
+      return "<h3 style='font-size:32px; font-weight: bold;' class='text-center'>autos</h3>" +
+        "<h3><strong>Clima</strong>: " + data.autos[count].Agencia + "</h3>" +
+        "<h3><strong>Descipción</strong>: " + data.autos[count].Lugar + "</h3>" +
+        "<h3><strong>Temperatura</strong>: " + data.autos[count].Marca + "&deg;C</h3>" +
+        "<h3><strong>Temperatura mínima</strong>: " + data.autos[count].Modelo + "&deg;C</h3>" +
+        "<h3><strong>Temperatura mínima</strong>: " + data.autos[count].Transmision + "&deg;C</h3>" +
+        "<h3><strong>Ultima actualizacion</strong>: " + data.autos[count].Precio + "</h3>";
+      count++;
+    }
+  }
+}

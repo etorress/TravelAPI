@@ -1,0 +1,76 @@
+{
+  "Carros": [{
+      "Agencia": "Dollar",
+      "Lugar": "Guadalajara",
+      "Marca": "Nissan",
+      "Modelo": "March",
+      "Transmisión": "Manual",
+      "Precio": "$360 mxn"
+    }, {
+      "Agencia": "Dollar",
+      "Lugar": "Guadalajara",
+      "Marca": "Dodge",
+      "Modelo": "Attitude",
+      "Transmisión": "Automática",
+      "Precio": "$385 mxn"
+    }, {
+      "Agencia": "Firefly",
+      "Lugar": "Ciudad de México",
+      "Marca": "Chevrolet",
+      "Modelo": "Matiz",
+      "Transmisión": "Manual",
+      "Precio": "$378 mxn"
+    }, {
+      "Agencia": "Keddy",
+      "Lugar": "Ciudad de México",
+      "Marca": "Volkswagen",
+      "Modelo": "Gol Sedan",
+      "Transmisión": "Manual",
+      "Precio": "$218 mxn"
+    }, {
+      "Agencia": "Adocar",
+      "Lugar": "Playa del Carmen",
+      "Marca": "Dodge",
+      "Modelo": "L10",
+      "Transmisión": "Manual",
+      "Precio": "$218 mxn"
+    }, {
+      "Agencia": "Keddy",
+      "Lugar": "Playa del Carmen",
+      "Marca": "Kia",
+      "Modelo": "Forte",
+      "Transmisión": "Automática",
+      "Precio": "$275 mxn"
+    }, {
+      "Agencia": "Budget",
+      "Lugar": "Guanajuato",
+      "Marca": "Nissan",
+      "Modelo": "Versa",
+      "Transmisión": "Automática",
+      "Precio": "$394 mxn"
+    }, {
+      "Agencia": "Keddy",
+      "Lugar": "Guanajuato",
+      "Marca": "Chevrolet",
+      "Modelo": "Spark",
+      "Transmisión": "Manual",
+      "Precio": "$376 mxn"
+    }, {
+      "Agencia": "Europcar",
+      "Lugar": "Chichén Itzá",
+      "Marca": "Nissan",
+      "Modelo": "March",
+      "Transmisión": "Automática",
+      "Precio": "$400 mxn"
+    }, {
+      "Agencia": "Firefly",
+      "Lugar": "Chichén Itzá",
+      "Marca": "Dodge",
+      "Modelo": "Attitude",
+      "Transmisión": "Automática",
+      "Precio": "$481 mxn"
+    },
+
+
+  ]
+}

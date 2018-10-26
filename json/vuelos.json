@@ -1,0 +1,73 @@
+{
+  "Aerolineas": [{
+    "Nombre": "Volaris",
+    "Destino": "Guadalajara",
+    "Precio": "$3,416 mxn",
+    "Fecha ida": "2 de noviembre",
+    "Escalas": "No",
+
+  }, {
+    "Nombre": "Volaris",
+    "Destino": "Guadalajara",
+    "Precio": "$1,740 mxn",
+    "Fecha ida": "2 de noviembre",
+    "Escalas": "No",
+
+  }, {
+    "Nombre": "Aeromexico",
+    "Destino": "Playa del Carmen",
+    "Precio": "$8, 636 mxn",
+    "Fecha ida": "16 de noviembre",
+    "Escalas": "Si",
+
+  }, {
+    "Nombre": "Aeromexico",
+    "Destino": "Playa del Carmen",
+    "Precio": "$15, 454 mxn",
+    "Fecha ida": "16 de noviembre",
+    "Escalas": "Si",
+
+  }, {
+    "Nombre": "Interjet",
+    "Destino": "Ciudad de México",
+    "Precio": "$2, 103 mxn",
+    "Fecha ida": "23 de noviembre",
+    "Escalas": "No",
+
+  }, {
+    "Nombre": "Interjet",
+    "Destino": "Ciudad de México",
+    "Precio": "$2, 103 mxn",
+    "Fecha ida": "23 de noviembre",
+    "Escalas": "No",
+
+  }, {
+    "Nombre": "Aeromexico",
+    "Destino": "Guanajuato",
+    "Precio": "$5, 225 mxn",
+    "Fecha ida": "16 de noviembre",
+    "Escalas": "Si",
+
+  }, {
+    "Nombre": "Aeromexico",
+    "Destino": "Guanajuato",
+    "Precio": "$7, 485 mxn",
+    "Fecha ida": "16 de noviembre",
+    "Escalas": "Si",
+
+  }, {
+    "Nombre": "Volaris",
+    "Destino": "Chichén Itzá",
+    "Precio": "$3, 404 mxn",
+    "Fecha ida": "9 de noviembre",
+    "Escalas": "Si",
+
+  }, {
+    "Nombre": "Volaris",
+    "Destino": "Chichén Itzá",
+    "Precio": "$7, 233 mxn",
+    "Fecha ida": "9 de noviembre",
+    "Escalas": "Si",
+
+  }]
+}

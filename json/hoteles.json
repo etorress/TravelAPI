@@ -1,0 +1,53 @@
+{
+  "Hoteles": [{
+    "Nombre": "Hacienda del Sol",
+    "Estrellas": "3",
+    "Precio": "$450 mxn ",
+    "Lugar": "Tonalá, Guadalajara, Jal."
+  }, {
+    "Nombre": "Plaza Ejecutivo Lopéz Mateos",
+    "Estrellas": "4",
+    "Precio": "$1, 154 mxn ",
+    "Lugar": "Zapopan, Guadalajara, Jal."
+  }, {
+    "Nombre": "Segovia Regency",
+    "Estrellas": "4",
+    "Precio": "$831 mxn",
+    "Lugar": "Zona Roma, CDMX"
+  }, {
+    "Nombre": "Posada Viena Hotel",
+    "Estrellas": "4",
+    "Precio": " $825 mxn",
+    "Lugar": "Zona Paseo de la Reforma , CDMX"
+  }, {
+    "Nombre": "Dorymar",
+    "Estrellas": "3",
+    "Precio": " $650 mxn",
+    "Lugar": "Playa del Carmen, Q. Roo."
+  }, {
+    "Nombre": "The St. Martin",
+    "Estrellas": "3",
+    "Precio": " $900  mxn",
+    "Lugar": "Playa del Carmen, Q. Roo."
+  }, {
+    "Nombre": "Mesón del Rosario",
+    "Estrellas": "3",
+    "Precio": "$1,068 mxn",
+    "Lugar": "Guanajuato, Gto."
+  }, {
+    "Nombre": "Real de Minas Guanajuato",
+    "Estrellas": "4",
+    "Precio": "$950 mxn",
+    "Lugar": "Guanajuato, Gto."
+  }, {
+    "Nombre": "Hacienda Chichén",
+    "Estrellas": "5",
+    "Precio": "$3, 673 mxn",
+    "Lugar": "Chichén Itzá, Yuc."
+  }, {
+    "Nombre": "The Lodge at Chichén Itzá",
+    "Estrellas": "5",
+    "Precio": "$4, 097 mxn",
+    "Lugar": "Chichén Itzá, Yuc."
+  }]
+}
